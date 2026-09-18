@@ -1,0 +1,6 @@
+{
+  "name": "SpeakAI",
+  "description": "Professional AI English learning app with real-time conversational voice tutor, native language grammar explanations, pronunciation practice, and personalized lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
